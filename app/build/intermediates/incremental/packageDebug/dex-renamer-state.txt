@@ -1,0 +1,7 @@
+#Thu Feb 16 17:10:33 ICT 2017
+base.0=C\:\\Users\\TON\\Desktop\\Recyclerviewdemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c163210ab0b1967630ace9166e15f040f6a88dba
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\TON\\Desktop\\Recyclerviewdemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_57e34deb40c27a6b4048736e5fe4b078d4068921\\classes.dex
+base.1=C\:\\Users\\TON\\Desktop\\Recyclerviewdemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_57e34deb40c27a6b4048736e5fe4b078d4068921
+file.0=C\:\\Users\\TON\\Desktop\\Recyclerviewdemo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c163210ab0b1967630ace9166e15f040f6a88dba\\classes.dex

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_288374bb715adfe72ba7d6fe2eae72c937fbf091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_5295bbac660ebdc697d973a21e92486ec8c25f3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_d658f16ca817a00156d2c1d6b85a4003bbeb64f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_9fd224312ac8421bbd7049f6a83174ba1704e8e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.1_580fc54e7249f8406933f8c972e759423bb82dec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4f155d0b70933b8cfed8ca0ddf6b9e353c92785e">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c163210ab0b1967630ace9166e15f040f6a88dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b6719cbd5493afc3d1423afaaf303256e4552709">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_57e34deb40c27a6b4048736e5fe4b078d4068921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_1271a5b4c3752b429f8e1d867c8f01536baddf3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\TON\Desktop\Recyclerviewdemo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_3963fcd978097d84db91bf41ca470e73eaa075cd\classes.dex" />
+    </item>
+
+</items>
